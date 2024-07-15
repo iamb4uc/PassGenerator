@@ -1,0 +1,11 @@
+Java (Core) "Console-based" project
+
+This files are to be executed in this order
+
+$ cd src/
+$ javac Main.java
+$ java Main
+
+
+This project is a basic password generator and a password checker that is completely written in Java21
+and is for my summer placement classes/external evaluation from cipherschool.
